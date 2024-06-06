@@ -1,3 +1,3 @@
 # jstats
-A library of statistical functions in JavaScript (** work in progress **)
+A library of statistical functions written in JavaScript (** work in progress **)
 
